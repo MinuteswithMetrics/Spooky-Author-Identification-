@@ -1,6 +1,7 @@
-
-
 # Spooky Author Identification 
+
+![Spooky Author Identification](https://s-media-cache-ak0.pinimg.com/originals/d8/ca/04/d8ca049fd1ad2d92818763e55c57f49a.jpg) 
+
 As I scurried across the candlelit chamber, manuscripts in hand, I thought I'd made it. Nothing would be able to hurt me anymore. Little did I know there was one last fright lurking around the corner.
 
 DING! My phone pinged me with a disturbing notification. It was Will, the scariest of Kaggle moderators, sharing news of another data leak.
