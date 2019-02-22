@@ -146,7 +146,6 @@ logreg.fit(X_dtm, y)
 # Compute the accuracy of training data predictions
 y_pred_train = logreg.predict(X_dtm)
 metrics.accuracy_score(y, y_pred_train)
-```
 
 # transform the test data using the earlier fitted vocabulary, into a document-term matrix
 test_dtm = vect.transform(test_df['text'])
